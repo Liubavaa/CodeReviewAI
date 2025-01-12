@@ -114,4 +114,5 @@ store only repository metadata and partially analyzed results.
 
 To manage API rate limits, I’d implement, for example, request throttling. For cost control, I’d add fallback modes 
 with cheaper llms for rate-limited responses.
+
 ---
